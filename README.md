@@ -5,3 +5,5 @@
 Follow the unique instructions for both [JNSQ-OPM-Compatibility-Pack](https://github.com/iWECHAMPIONSi/JNSQ-OPM-Compatibility-Pack) and [JNSQ-MPE-Compatibility-Pack](https://github.com/iWECHAMPIONSi/JNSQ-MPE-Compatibility-Pack) for their deletions of Eeloo files
 
 Place the GameData folder in the KSP directory
+
+This is no longer needed as both compatibility packs can function together, this was only made due to my sloppiness
