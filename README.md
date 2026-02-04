@@ -1,9 +1,5 @@
 # JNSQ-OPM-MPE-Compatibility-Pack
 
-# NOTE, THIS DOES ABSOLUTELY NOTHING EXCEPT MAKE EELOO COMPATIBLE, IT DOES NOT RESCALE THE PLANETS, CURRENTLY WORKING ON PATCH TO FIX THIS
+# This is depricated and is no longer supported, any and all future JNSQ compatibility packs will have their own repos and be used independantly and together
 
-Follow the unique instructions for both [JNSQ-OPM-Compatibility-Pack](https://github.com/iWECHAMPIONSi/JNSQ-OPM-Compatibility-Pack) and [JNSQ-MPE-Compatibility-Pack](https://github.com/iWECHAMPIONSi/JNSQ-MPE-Compatibility-Pack) for their deletions of Eeloo files
-
-Place the GameData folder in the KSP directory
-
-This is no longer needed as both compatibility packs can function together, this was only made due to my sloppiness
+[JNSQ-OPM-Compatibility-Pack](https://github.com/iWECHAMPIONSi/JNSQ-OPM-Compatibility-Pack) [JNSQ-MPE-Compatibility-Pack](https://github.com/iWECHAMPIONSi/JNSQ-MPE-Compatibility-Pack)
